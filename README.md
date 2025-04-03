@@ -48,8 +48,9 @@ BMI_Calculator/
 [Watch the demo](https://github.com/csdeepak/BMI_Calculator/blob/main/BMI_Calculator%20by%20CS%20DEEPAK.mp4)
 
 ## code 
-[main.dart](https://github.com/csdeepak/BMI_Calculator/blob/main/lib/main.dart)
-[result_page.dart](https://github.com/csdeepak/BMI_Calculator/blob/main/lib/result_page.dart)
+
+[main.dart](https://github.com/csdeepak/BMI_Calculator/blob/main/lib/main.dart) :main.dart is the entry point of the Flutter app. It initializes and runs the application, sets up the UI, and handles navigation. Without it, the app wouldn’t function.<br>
+[result_page.dart](https://github.com/csdeepak/BMI_Calculator/blob/main/lib/result_page.dart) : result_page.dart handles the display of BMI results. It calculates BMI, categorizes it, provides health recommendations, and styles the output for better readability.<br>
 
 ## How It Works
 1. The user enters height (in meters) and weight (in kg).
